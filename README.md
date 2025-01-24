@@ -1,7 +1,7 @@
 # BankSimulator
 ### Objective:
 
-Creating a Bank Account and Card script logics.
+Creating a Bank Account and Credit Card script logics.
 
 ### Method:
 
